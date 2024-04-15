@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TaskEnumException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\taskenumexception\\core\\exceptions\\studentnotexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|solutionrelative:core\\exceptions\\studentnotexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\taskenumexception\\core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|solutionrelative:core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\taskenumexception\\core\\enums\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|solutionrelative:core\\enums\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\taskenumexception\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|solutionrelative:core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2810474F-0C6C-4B68-90F4-5F899ED7F207}|TaskEnumException\\TaskEnumException.csproj|c:\\users\\user\\source\\repos\\taskenumexception\\taskenumexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810474F-0C6C-4B68-90F4-5F899ED7F207}|TaskEnumException\\TaskEnumException.csproj|solutionrelative:taskenumexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\taskenumexception\\core\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|solutionrelative:core\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\taskenumexception\\core\\exceptions\\classroomnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1239AD69-271F-4CC5-97F5-EFE24CAF9FEA}|Core\\Core.csproj|solutionrelative:core\\exceptions\\classroomnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassroomNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Exceptions\\ClassroomNotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\ClassroomNotFoundException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Exceptions\\ClassroomNotFoundException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\ClassroomNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:29:49.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentNotException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Exceptions\\StudentNotException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\StudentNotException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Exceptions\\StudentNotException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\StudentNotException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:22:56.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Models\\Helper.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Helper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Models\\Helper.cs",
+              "RelativeToolTip": "Core\\Models\\Helper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:39:20.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Enums\\Type.cs",
+              "RelativeDocumentMoniker": "Core\\Enums\\Type.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Enums\\Type.cs",
+              "RelativeToolTip": "Core\\Enums\\Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:36:00.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Classroom.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Models\\Classroom.cs",
+              "RelativeToolTip": "Core\\Models\\Classroom.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwD4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:56:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskEnumException\\Core\\Models\\Student.cs",
+              "RelativeToolTip": "Core\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:48:21.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskEnumException\\TaskEnumException\\Program.cs",
+              "RelativeDocumentMoniker": "TaskEnumException\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskEnumException\\TaskEnumException\\Program.cs",
+              "RelativeToolTip": "TaskEnumException\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:41:58.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
